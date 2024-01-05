@@ -20,8 +20,8 @@ def counting_sort(arr):
 
 
 
-arr = [4, 9, 5, 0, 3, 9, 8, 7, 4, 0]
-sorted_arr = counting_sort(arr)
-print(sorted_arr)
+# arr = [4, 9, 5, 0, 3, 9, 8, 7, 4, 0]
+# sorted_arr = counting_sort(arr)
+# print(sorted_arr)
 
 
