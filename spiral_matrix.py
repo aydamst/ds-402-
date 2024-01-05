@@ -1,6 +1,3 @@
-
-
-
 def generate_spiral_matrix(n):
 
     matrix = [[0] * n for _ in range(n)]
